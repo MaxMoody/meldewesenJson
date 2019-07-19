@@ -1,90 +1,35 @@
 [
   {
     "id": 1,
-    "isCorrect": true,
     "reportType": "BiSta",
-    "isData": true,
     "deadline": "29.05.2019",
     "action": "Versand",
     "executionTime": "03.06.2019 um 9:30 Uhr"
   },
   {
     "id": 2,
-    "isCorrect": true,
     "reportType": "CoRep",
-    "isData": true,
     "deadline": "29.05.2019",
     "action": "Versand",
     "executionTime": "03.06.2019 um 9:30 Uhr"
   },
     {
     "id": 3,
-    "isCorrect": true,
     "reportType": "CoRep",
-    "isData": true,
     "deadline": "29.05.2019",
     "action": "Versand",
     "executionTime": "03.06.2019 um 9:30 Uhr"
   },
     {
     "id": 4,
-    "isCorrect": false,
     "reportType": "BiSta",
-    "isData": false,
     "deadline": "29.05.2019",
     "action": "Versand",
     "executionTime": "03.06.2019 um 9:30 Uhr"
   },
     {
     "id": 5,
-    "isCorrect": false,
     "reportType": "BiSta",
-    "isData": true,
-    "deadline": "29.05.2019",
-    "action": "Versand",
-    "executionTime": "03.06.2019 um 9:30 Uhr"
-  },
-    {
-    "id": 6,
-    "isCorrect": true,
-    "reportType": "BiSta Konzern",
-    "isData": true,
-    "deadline": "29.05.2019",
-    "action": "Versand",
-    "executionTime": "03.06.2019 um 9:30 Uhr"
-  },
-    {
-    "id": 7,
-    "isCorrect": true,
-    "reportType": "BiSta",
-    "isData": true,
-    "deadline": "29.05.2019",
-    "action": "Versand",
-    "executionTime": "03.06.2019 um 9:30 Uhr"
-  },
-    {
-    "id": 8,
-    "isCorrect": false,
-    "reportType": "AuSta",
-    "isData": true,
-    "deadline": "29.05.2019",
-    "action": "Versand",
-    "executionTime": "03.06.2019 um 9:30 Uhr"
-  },
-    {
-    "id": 9,
-    "isCorrect": true,
-    "reportType": "BiSta",
-    "isData": true,
-    "deadline": "29.05.2019",
-    "action": "Versand",
-    "executionTime": "03.06.2019 um 9:30 Uhr"
-  },
-    {
-    "id": 10,
-    "isCorrect": true,
-    "reportType": "AuSta",
-    "isData": true,
     "deadline": "29.05.2019",
     "action": "Versand",
     "executionTime": "03.06.2019 um 9:30 Uhr"
